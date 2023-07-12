@@ -1,6 +1,7 @@
 # About_React
 This is about the facts of React.
-
+# For Setup
+### npm i && npm run dev
 # SCREENSHOTS
 
 ![Screenshot (226)](https://github.com/Hafiz-Ali-1/About_React/assets/125127546/5ba1623c-b875-4de1-9a60-9fdec92bfd0f)
